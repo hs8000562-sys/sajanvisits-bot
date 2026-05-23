@@ -107,7 +107,7 @@ async def visits(ctx, uid: str, region: str):
         )
 
         embed.set_footer(
-            text="DEVELOPED BY DIBOXE LEGIT •"
+            text="DEVELOPED BY OLD SAJAN •"
         )
 
         await ctx.send(
