@@ -26,7 +26,7 @@ async def on_ready():
 async def visits(ctx, uid: str, region: str):
 
     api_url = (
-        f"http://np2.npcloud.online:2053/visits?uid={uid}&region={region}"
+        f"https://tinyurl.com/Sajan-fucker/uid=&region=bd"
     )
 
     try:
